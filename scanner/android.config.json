@@ -1,0 +1,6 @@
+{
+  "AppName":"Weex Scanner",
+  "AppId":"com.weex.scanner",
+  "SplashText":"Hello\nWeex",
+  "WeexBundle":"index.js"
+}
